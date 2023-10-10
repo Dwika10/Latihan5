@@ -3,19 +3,19 @@
     margin: 0px;
     padding: 0px;
     color: black;
-    font-family: "Montserrat", sans-serif;
-}
+    font-family: "Montserrat", sans-serif;}
+
 body{
     margin: 0px;
     padding: 0px;
     font-family: "DM Sans", sans-serif;
-    font-family: "Montserrat", sans-serif;
-}
+    font-family: "Montserrat", sans-serif;}
+
 .wrapper {
     width: 1100px;
     margin: auto;
-    position: relative;
-}
+    position: relative;}
+
 .logo{
     font-size: 45px;
     font-weight: bold;
@@ -23,49 +23,47 @@ body{
     font-family: comic sans-serif;
     color: black;
     padding: 0 25px;
-    font-weight: 700px;  
-}
+    font-weight: 700px;  }
+
 .menu{
-    float: right;
-}
+    float: right;}
+
 nav {
     width: 100%;
     margin: auto;
     display: flex;
     line-height: 80px;
     top: 0;
-    background: white;
-}
+    background: white;}
+
 nav ul{
     list-style-type: none;
     margin: 0;
     padding: 0;
-    overflow: hidden;
-}
-nav ul li{
-    float: left;
+    overflow: hidden;}
 
-}
-nav ul li a{
+nav ul li{
+    float: left;}
+
+nav ul li a {
     color: black;
     text-align: center;
     font-size: 23px;
     padding: 0px 16px 0px 16px;
-    text-decoration: none;
-}
+    text-decoration: none;}
+
 nav ul li a:hover{
-    text-decoration: underline;
-}
+    text-decoration: underline;}
+
 section{
     margin: auto;
     display: flex;
-    margin-bottom: 50px;
-}
+    margin-bottom: 50px;}
 
 .kolom {
     margin-top: 50px;
-    margin-bottom: 50px;
-}
+    margin-bottom: 50px;}
+
 h1{
     color: black;
     font-size: 43px;
@@ -74,8 +72,8 @@ h1{
     margin: 0 0 16px;
     font-weight: bold;
     float: left;
-    padding-top: 50px;
-}
+    padding-top: 50px;}
+
 p {
     color: grey;
     margin: 0 0 16px 0;
@@ -83,16 +81,16 @@ p {
     font-size: 23px;
     float: left;
     padding: 0 25px;
-    font-weight: 700px;
-}
+    font-weight: 700px;}
+
 img{
     float: right;
     border-radius: 10px;
     border: 3px solid white;
     margin-right: 20px;
     width: 500px;
-    size: 100px;
-}
+    size: 100px;}
+
 button {
     border: none;
     color: white;
@@ -102,15 +100,14 @@ button {
     display: inline-block;
     width: 25%;
     height: 15%;
-    margin-left: 25px;
-}
+    margin-left: 25px;}
+
 .btn-1 {
     text-align: center;
     color: black;
     border: 2px solid aquamarine;
     background-color: white;
-    float: left;
-  }
+    float: left;}
   
 .btn-2 {
     margin-left: 10px;
@@ -118,32 +115,32 @@ button {
     color: white;
     background-color: aquamarine;
     border: 2px solid white;
-    float: left;
-}
+    float: left;}
+
 .kolom2ke1{
     display: grid;
     float: left;
     text-align: center;
     justify-content: center;
     margin: 5px;
-    padding: 20px;
-  }
+    padding: 20px;}
+    
 .kolom2ke2 {
     display: grid;
     float: left;
     text-align: center;
     justify-content: center;
     margin: 5px;
-    padding: 20px;
-}
+    padding: 20px;}
+
 .kolom2ke3 {
     display: grid;
     text-align: center;
     float: left;
     justify-content: center;
     margin: 5px;
-    padding: 20px;
-}
+    padding: 20px;}
+
 table {
     border: none;
     position: relative;
@@ -154,24 +151,23 @@ table {
     width: 50px;
     margin-bottom: 5px;
     margin-left: auto;
-    margin-right: auto;
-}
+    margin-right: auto;}
 
 .Experts{
     font-size: 35px;
     padding-top: 0;
-    font-weight: bold;
-}
+    font-weight: bold;}
+
 .Clients{
     font-size: 35px;
     padding-top: 0;
-    font-weight: bold;
-}
+    font-weight: bold;}
+
 .Projects{
     font-size: 35px;
     padding-top: 0;
-    font-weight: bold;
-}
+    font-weight: bold;}
+
 .row {
     display: flex;
     flex-direction: row;
@@ -180,8 +176,8 @@ table {
     padding-left: 125px;
     padding-right: 125px;
     font-size: 30px;
-    padding: 0 10px;
-}
+    padding: 0 10px;}
+
 .btn-3 {
     width: 180px;
     height: 50px;
@@ -192,12 +188,11 @@ table {
     float: left;
     position: relative;
     margin-left: 400px;
-    margin-top: 50px;
-}
+    margin-top: 50px;}
+
 .card-grid {
     display: grid;
-    grid-template-columns: repeat(3, 1fr);
-}
+    grid-template-columns: repeat(3, 1fr);}
 
 .card {
     background-color: #fff;
@@ -212,21 +207,21 @@ table {
     overflow: hidden;
     margin-left: 38px;
     border-radius: 0;
-    padding-bottom: 10px;
-}
+    padding-bottom: 10px;}
 
 .card img {
     max-width: 270px;
     object-fit: contain;
-    border-radius: 0;
-}
+    border-radius: 0;}
+
 .desk {
     font-size: 15px;
     padding-top: 0px;
     margin-top: 0px;
     padding: 10px;
-
+    
 }
+
 .judul {
     padding-top: 10px;
     font-size: 23px;
